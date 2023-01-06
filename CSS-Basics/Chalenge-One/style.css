@@ -1,0 +1,24 @@
+* {
+    background-color: #55CCFF;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+ul,
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    text-transform: none;
+}
+
+span {
+    font-size: 35px;
+    text-transform: uppercase;
+}
